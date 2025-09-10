@@ -1,0 +1,6 @@
+Create a function track_scores(scores, operation) that takes a 
+tuple of numbers and an operation (‘sum’, ‘max’, ‘even’). Return: 
+ ‘sum’: Sum of scores. 
+ ‘max’: Highest score. 
+ ‘even’: Tuple of even scores. Call the function three times with a tuple of 5 scores and 
+different operations
